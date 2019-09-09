@@ -1,5 +1,6 @@
 # Notes
-## Mentor: Anish Krishnan
+### Mentor: Anish Krishnan
+### Mentee: Rob Creel
 
 ### Mentee notes:
 > I'm coming from an R background, so I want to improve my Pythonic thinking, using classes, and object orientation.
