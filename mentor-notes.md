@@ -12,6 +12,6 @@ understand is YAGNI - "you ain't gonna need it." In other words, it's important 
 not absolutely necessary. The general rule of thumb I like to follow is when code is reusable - i.e., it's repeated -
 I can create a function (and maybe class) to house it.
 
-If you have other code you'd like me to look at before tomorrow, I'd be more than happy to. See you at Dev Together!
+If you have other code you'd like me to look at before tomorrow, I'd be more than happy to do so. See you at Dev Together!
 
 Anish
